@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Cosmic-OS</string>
+    <string name="action_settings">Cosmic OS App Version 1.0</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="section_format2">Hello World</string>
+    <string name="sagar">Sagar Shah</string>
+    <string name="aditya">Aditya Upreti</string>
+    <string name="agent">Agent Fabulous</string>
+    <string name="jo">Joshua Baldassarre</string>
+    <string name="check_update">Refresh</string>
+    <string name="Change_log_update">Fetch the Change log</string>
+    <string name="rom_about"></string>
+</resources>
